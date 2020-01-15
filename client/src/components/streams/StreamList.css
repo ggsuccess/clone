@@ -43,3 +43,18 @@
   background: #e74b37;
   cursor: pointer;
 }
+
+.createBtn {
+  width: 20%;
+}
+
+.createBtn > a {
+  color: black;
+  text-decoration: none;
+}
+
+.linkBtn {
+  color: black;
+  text-decoration: none;
+  padding: 0.6rem;
+}
